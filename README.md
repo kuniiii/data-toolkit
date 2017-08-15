@@ -1,3 +1,33 @@
+## Data Toolkit
+
+
+# Data process steps
+
+Getting data | Telling with data 
+------------ | ----------------- 
+Scraping<br>[[https://help.github.com/assets/images/help/wiki/wiki_add_image.png|alt=octocat]] | Visualization
+Collecting data | Materialization
+Cleaning data |
+
+Types of data | 
+---- |
+Numbers | 
+Qualitative values | 
+Textual | 
+Networked entities | 
+Time series | 
+Geographic data | 
+...
+
+Data analysis | 
+------------- | 
+Statistical analysis | 
+Time series analysis | 
+Network analysis | 
+Text analysis | 
+
+----
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kuniiii/data-toolkit/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
