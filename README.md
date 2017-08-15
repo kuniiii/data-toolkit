@@ -25,7 +25,7 @@ Correlation |
 
 Guides | 
 ---- | 
-Data gathering guide |
+[Data gathering guide](data-gathering-guide) |
 Data cleaning guide | 
 How to look at data guide | 
 
