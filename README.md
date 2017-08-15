@@ -1,13 +1,7 @@
 ## Data Toolkit
 
 
-# Data process steps
-
-Getting data | Telling with data 
------------- | ----------------- 
-Scraping<br>[[https://help.github.com/assets/images/help/wiki/wiki_add_image.png|alt=octocat]] | Visualization
-Collecting data | Materialization
-Cleaning data |
+# Data tools
 
 Types of data | 
 ---- |
@@ -19,12 +13,37 @@ Time series |
 Geographic data | 
 ...
 
-Data analysis | 
-------------- | 
-Statistical analysis | 
+Data techniques | 
+---- | 
+Text analysis | 
+Map visualization |
+Basic statistics | 
+Graph visualization | 
 Time series analysis | 
 Network analysis | 
-Text analysis | 
+Difference cmoparison | 
+Correlation | 
+
+Guides | 
+---- | 
+Data gathering guide |
+Data cleaning guide | 
+How to look at data guide | 
+
+
+
+
+Getting data | Telling with data 
+------------ | ----------------- 
+Scraping | Visualization
+Collecting data | Materialization
+Cleaning data |
+
+
+
+Data analysis | 
+------------- | 
+
 
 ----
 
