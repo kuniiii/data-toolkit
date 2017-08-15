@@ -11,7 +11,6 @@ Textual |
 Networked entities | 
 Time series | 
 Geographic data | 
-...
 
 Data techniques | 
 ---- | 
@@ -30,19 +29,6 @@ Data gathering guide |
 Data cleaning guide | 
 How to look at data guide | 
 
-
-
-
-Getting data | Telling with data 
------------- | ----------------- 
-Scraping | Visualization
-Collecting data | Materialization
-Cleaning data |
-
-
-
-Data analysis | 
-------------- | 
 
 
 ----
